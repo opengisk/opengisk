@@ -27,7 +27,7 @@ Below is a list of popular closed-source Android root modules, along with their 
 
 For open-source projects, we highly recommend only using software that is compiled and released through **GitHub Actions**. This approach helps ensure that the releases are directly built from the current source code without any modifications. If you have any concerns, you can review the project's CI files yourself to confirm the build process.
 
-E.g., for **ReZygisk**, you can download the release from [GitHub Releases](https://github.com/PerformanC/ReZygisk/releases) and verify the build process by checking the [GitHub Actions workflow](https://github.com/PerformanC/ReZygisk/blob/main/.github/workflows/build.yml).
+E.g., for **ReZygisk**, you can download the release from [GitHub Actions](https://github.com/PerformanC/ReZygisk/actions) and verify the build process by checking the [GitHub Actions workflow](https://github.com/PerformanC/ReZygisk/blob/main/.github/workflows/build.yml).
 
 By following this practice, we aim to enhance transparency and security, reducing the risk of tampered releases in high-permission modules.
 
